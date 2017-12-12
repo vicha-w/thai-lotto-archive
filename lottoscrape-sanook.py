@@ -2,10 +2,14 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
 links = [
-    "http://news.sanook.com/lotto/check/16022556/",
-    "http://news.sanook.com/lotto/check/01062557/",
-    "http://news.sanook.com/lotto/check/16062557/",
-    "http://news.sanook.com/lotto/check/01072557/"
+    #"http://news.sanook.com/lotto/check/16022556/",
+    #"http://news.sanook.com/lotto/check/01062557/",
+    #"http://news.sanook.com/lotto/check/16062557/",
+    #"http://news.sanook.com/lotto/check/01072557/"
+    "http://news.sanook.com/lotto/check/16072556/",
+    "http://news.sanook.com/lotto/check/16112556/",
+    "http://news.sanook.com/lotto/check/16072557/",
+    "http://news.sanook.com/lotto/check/16072559/",
 ]
 
 for link in links:
@@ -29,7 +33,7 @@ for link in links:
     fourth = numbers[23:73]
     fifth = numbers[73:173]
 
-    outfile = open("lottores/"+pagename+".txt", 'w')
+    outfile = open("lottonumbers/"+pagename+".txt", 'w')
     outfile.write(link+'\n')
     outfile.write("FIRST "+str(first)+'\n')
     if (year > 2015) or (year == 2015 and month > 8):
