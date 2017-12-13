@@ -1,8 +1,8 @@
 # thai-lotto-archive
-Archive of winning Thai lotto numbers since 2012. All data are sourced from kapook.com and sanook.com.
+Archive of winning Thai lottery numbers since 2007. All data are sourced from kapook.com, sanook.com, and other sources.
 
 ## File structure
-Each file in `lottonumbers` directory consist of winning numbers from each lotto drawing days, shown in a file name. The first line is a URL of website as a source for winning numbers data on the corresponding day. One string precedes each line from the second line onwards, which labels other numbers on the line to each corresponding prize as follows:
+Each file in `lottonumbers` directory consist of winning numbers from each lotto drawing days, shown in a file name. The first line is a URL of website as a source for winning numbers data on the corresponding day. *On some lottery drawing days, data can not be properly scraped from either kapook.com or sanook.com, so they are recorded by hand from other sources.* One string precedes each line from the second line onwards, which labels other numbers on the line to each corresponding prize as follows:
 
 * `FIRST`: 1st prize, 1 number
 * *(Prior to 1 September 2013)* `THREE`: Prize matching last 3 digits, 4 numbers
