@@ -45,7 +45,7 @@ for link in links:
     two = soup.find(id="d2").string
     near_first = [soup.find(id="no1nr:{}".format(i)).string for i in [1, 2]]
     second = [soup.find(id="no2:{}".format(i)).string for i in range(1, 6)]
-    third = [soup.find(id="no3:{}".format(i)).string for i in range(1, 10)]
+    third = [soup.find(id="no3:{}".format(i)).string for i in range(1, 11)]
     fourth = [soup.find(id="no4:{}".format(i)).string for i in range(1, 51)]
     fifth = [soup.find(id="no5:{}".format(i)).string for i in range(1, 101)]
 
