@@ -5,9 +5,9 @@ Archive of winning Thai lottery numbers since 2007. All data are sourced from ka
 Each file in `lottonumbers` directory consist of winning numbers from each lotto drawing days, shown in a file name. The first line is a URL of website as a source for winning numbers data on the corresponding day. *On some lottery drawing days, data can not be properly scraped from either kapook.com or sanook.com, so they are recorded by hand from other sources.* One string precedes each line from the second line onwards, which labels other numbers on the line to each corresponding prize as follows:
 
 * `FIRST`: 1st prize, 1 number
-* *(Prior to 1 September 2013)* `THREE`: Prize matching last 3 digits, 4 numbers
-* *(1 September 2013 onwards)* `THREE_FIRST`: Prize matching first 3 digits, 2 numbers
-* *(1 September 2013 onwards)* `THREE_LAST`: Prize matching last 3 digits, 2 numbers
+* *(Prior to 1 September 2015)* `THREE`: Prize matching last 3 digits, 4 numbers
+* *(1 September 2015 onwards)* `THREE_FIRST`: Prize matching first 3 digits, 2 numbers
+* *(1 September 2015 onwards)* `THREE_LAST`: Prize matching last 3 digits, 2 numbers
 * `TWO`: Prize matching last 2 digits, 1 number
 * `NEAR_FIRST`: Prize with numbers close to 1st prize (see section [Some information about Thai lottery](#some-information-about-thai-lottery)), 2 numbers
 * `SECOND`: 2nd prize, 5 numbers
@@ -35,9 +35,9 @@ Each Thai lottery contains six digits, resulting in one million combinations in 
 * **3rd prize** with 10 winning numbers.
 * **4th prize** with 50 winning numbers.
 * **5th prize** with 100 winning numbers.
-* (Prior to 1 September 2013) **Matching last 3 digits** with 4 winning numbers.
-* (1 September 2013 onwards) **Matching *first* 3 digits** with 2 winning numbers.
-* (1 September 2013 onwards) **Matching *last* 3 digits** with 2 winning numbers.
+* (Prior to 1 September 2015) **Matching last 3 digits** with 4 winning numbers.
+* (1 September 2015 onwards) **Matching *first* 3 digits** with 2 winning numbers.
+* (1 September 2015 onwards) **Matching *last* 3 digits** with 2 winning numbers.
 * **Matching last 2 digits** with 1 winning number.
 
 For more information, see https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2 (Thai Wikipedia)
