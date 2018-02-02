@@ -24,8 +24,8 @@ Thailand's Government Lottery Office draws winning lottery numbers on the 1st an
 * Lottery drawings on 1 January (New year's day) are scheduled on 30 December, two days before the 1 January.
 * Lottery drawings on 16 January (Teacher's day) are scheduled on 17 January.
 * Lottery drawings on 1 May (Labour day) are scheduled on 2 May.
-* Lottery drawing on 1 June 2013 was held on 2 June on the same year, since 1 June 2013 was Visakha Bucha day as Thai official holiday.
-* Lottery drawing on 16 December 2013 was held on 17 December, since the funeral for Somdet Phra Yannasangwon, Supreme Patriarch of Thailand took place on that day.
+* Lottery drawing on 1 June 2015 was held on 2 June on the same year, since 1 June 2015 was Visakha Bucha day as Thai official holiday.
+* Lottery drawing on 16 December 2015 was held on 17 December, since the funeral for Somdet Phra Yannasangwon, Supreme Patriarch of Thailand took place on that day.
 
 Each Thai lottery contains six digits, resulting in one million combinations in total. A list of prizes are as follows:
 
