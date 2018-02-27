@@ -2,14 +2,15 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
 links = [
-    "http://news.sanook.com/lotto/check/16022556/",
-    "http://news.sanook.com/lotto/check/01062557/",
-    "http://news.sanook.com/lotto/check/16062557/",
-    "http://news.sanook.com/lotto/check/01072557/",
-    "http://news.sanook.com/lotto/check/16072556/",
-    "http://news.sanook.com/lotto/check/16112556/",
-    "http://news.sanook.com/lotto/check/16072557/",
-    "http://news.sanook.com/lotto/check/16072559/"
+    #"http://news.sanook.com/lotto/check/16022556/",
+    #"http://news.sanook.com/lotto/check/01062557/",
+    #"http://news.sanook.com/lotto/check/16062557/",
+    #"http://news.sanook.com/lotto/check/01072557/",
+    #"http://news.sanook.com/lotto/check/16072556/",
+    #"http://news.sanook.com/lotto/check/16112556/",
+    #"http://news.sanook.com/lotto/check/16072557/",
+    #"http://news.sanook.com/lotto/check/16072559/"
+    "http://news.sanook.com/lotto/check/16022561/"
     #"http://news.sanook.com/lotto/check/16072553/",
     #"http://news.sanook.com/lotto/check/01102553/",
     #"http://news.sanook.com/lotto/check/30122550/",
@@ -38,6 +39,7 @@ links.append("http://news.sanook.com/lotto/check/30122549/")
 '''
 
 for link in links:
+    print("Scraping numbers from link {}".format(link))
     try:
         pagename = link.split('/')[-2]
         pagename = '-'.join([str(int(pagename[4:8])-543), pagename[2:4], pagename[0:2]])
@@ -75,6 +77,7 @@ for link in links:
             outfile.write('\n')
 
         outfile.close()
+        print("Scraped data from {} into lottonumbers/{}.txt".format(link, pagename))
     except Exception as e:
         print("WARNING: "+link+" cannot be scraped with exception "+str(e)+". Skipping.")
         continue
