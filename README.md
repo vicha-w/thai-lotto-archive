@@ -18,6 +18,15 @@ Each file in `lottonumbers` directory consist of winning numbers from each lotto
 ## `lottoscraper.py` and `lottoscraper-sanook.py`
 This repo also contains two python scripts which I used to scrape all data from lottery checking pages at [kapook.com](http://lottery.kapook.com/) and [sanook.com](http://news.sanook.com/lotto/), and put them in a nice format under the directory `lottonumbers`. `lottoscraper.py` is tailored for web page format seen in kapook.com, while `lottoscraper-sanook.py` is for web page format seen in sanook.com. You will need Python 3 and [`BeautifulSoup`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) in order to run the scripts.
 
+## Archive in other formats
+* pandas DataFrame containing winning numbers can be obtained via `lottodataframe.py` (made by @kittinan -- thank you!). To obtain the DataFrame: 
+    ```python
+    import lottodataframe
+    lottodataframe.get_lotto_df()
+    ```
+    *Winning numbers in this DataFrame will only include first prize winning number, as well as last two winning digits, first three winning digits, and last three winning digits.*
+* If you would like to provide code for other formats, you may submit a pull request with provided code. Please keep in mind that the code must be able to generate the latest winning numbers according to the archive.
+
 ## Some information about Thai lottery
 Thailand's Government Lottery Office draws winning lottery numbers on the 1st and 16th of every month, with a few exceptions as follows:
 
