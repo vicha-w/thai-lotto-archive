@@ -36,6 +36,7 @@ Thailand's Government Lottery Office draws winning lottery numbers on the 1st an
 * Lottery drawing on 1 June 2015 was held on 2 June on the same year, since 1 June 2015 was Visakha Bucha day as Thai official holiday.
 * Lottery drawing on 16 December 2015 was held on 17 December, since the funeral for Somdet Phra Yannasangwon, Supreme Patriarch of Thailand took place on that day.
 * Lottery drawing on 1 March 2018 was held on 2 March, since 1 March 2018 was Makha Bucha day as Thai official holiday.
+* Lottery drawing on 16 July 2019 was held on 15 July, since 16 July 2019 was Asalaha Bucha day as Thai official holiday, and 17 July 2019 was Buddhist Lent day as another Thai official holiday.
 
 Each Thai lottery contains six digits, resulting in one million combinations in total. A list of prizes are as follows:
 
