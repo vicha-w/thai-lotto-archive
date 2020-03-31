@@ -50,7 +50,7 @@ Each Thai lottery contains six digits, resulting in one million combinations in 
 For more information, see https://th.wikipedia.org/wiki/หวยในประเทศไทย (Thai Wikipedia)
 
 ## Extraordinary rescheduling of lottery drawing dates
-Some lottery drawing dates are postponed due to several reasons, most commonly being the drawing date coincide with Thai Buddhist holiday, which is based on lunar calendar and not the same date on Gregorian calendar. Here are the lotter drawing dates that are postponed in the past or being rescheduled.
+Some lottery drawing dates are postponed due to several reasons, most commonly being the drawing date coincide with Thai Buddhist holiday, which is based on lunar calendar and not the same date on Gregorian calendar every year. Here are the lottery drawing dates that are postponed in the past or being rescheduled.
 
 * Lottery drawing on 1 June 2015 was held on 2 June on the same year, since 1 June 2015 was Visakha Bucha day as Thai official holiday.
 * Lottery drawing on 16 December 2015 was held on 17 December, since the funeral for Somdet Phra Yannasangwon, Supreme Patriarch of Thailand took place on that day.
