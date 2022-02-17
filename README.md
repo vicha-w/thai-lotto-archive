@@ -57,3 +57,4 @@ Some lottery drawing dates are postponed due to several reasons, most commonly b
 * Lottery drawing on 1 March 2018 was held on 2 March, since 1 March 2018 was Makha Bucha day as Thai official holiday.
 * Lottery drawing on 16 July 2019 was held on 15 July, since 16 July 2019 was Asalaha Bucha day as Thai official holiday, and 17 July 2019 was Buddhist Lent day as another Thai official holiday.
 * Lottery drawing on 1 April 2020 was held on 16 May. Due to concerns regarding COVID-19 outbreak, GLO postponed lottery drawing on 1 April to 16 May, and no lottery tickets for 16 April, 1 May, and 16 May lottery drawings are sold.
+* Lottery drawing on 16 February 2022 was held on 17 February, since 16 February 2022 was Makha Bucha day as Thai official holiday.
