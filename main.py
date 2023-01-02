@@ -20,7 +20,6 @@ def get_lotto_latest():
         'THREE',
         'THREE_FIRST',
         'THREE_LAST',
-        'THIRD'
     ]
     for file in files:
         
