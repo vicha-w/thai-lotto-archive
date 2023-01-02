@@ -44,5 +44,6 @@ INFO:     Application startup complete.
 
 ### GET it
 
+- http://127.0.0.1:8000/docs
 - http://127.0.0.1:8000/latest
 - http://127.0.0.1:8000/date/2022-12-16
