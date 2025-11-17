@@ -46,7 +46,7 @@ for link in links:
         [year, month, day] = [int(string) for string in pagename.split('-')]
         page = urlopen(link).read()
         soup = BeautifulSoup(page, "html.parser")
-        numbers = [num.string for num in soup.findAll(class_="lotto__number")]
+        numbers = [num.string for num in soup.find_all(class_="lotto__number")]
         first = numbers[0]
         three_first = numbers[1:3]
         three_last = numbers[3:5]
